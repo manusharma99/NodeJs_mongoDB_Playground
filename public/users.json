@@ -1,0 +1,47 @@
+[
+    {
+        "name":"harshit",
+        "surname":"kohli",
+        "emailId":"test@gmail.com",
+        "phoneNo":"1234567890",
+        "fatherName":"Shree Ram",
+        "gender":"male",
+        "collegeName":"NIEC"
+    },
+    {
+        "name":"manu",
+        "surname":"sharma",
+        "emailId":"test@gmail.com",
+        "phoneNo":"1234567890",
+        "fatherName":"Shree Ram",
+        "gender":"male",
+        "collegeName":"NIEC"
+    },
+    {
+        "name":"mayank",
+        "surname":"sharma",
+        "emailId":"test@gmail.com",
+        "phoneNo":"1234567890",
+        "fatherName":"Shree Ram",
+        "gender":"male",
+        "collegeName":"NIEC"
+    },
+    {
+        "name":"abhinav",
+        "surname":"jain",
+        "emailId":"test@gmail.com",
+        "phoneNo":"1234567890",
+        "fatherName":"Shree Ram",
+        "gender":"male",
+        "collegeName":"NIEC"
+    },
+    {
+        "name":"pranay",
+        "surname":"anand",
+        "emailId":"test@gmail.com",
+        "phoneNo":"1234567890",
+        "fatherName":"Shree Ram",
+        "gender":"male",
+        "collegeName":"NIEC"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "bankName":"SBI",
+        "accNo":123,
+        "accountOwner":"5e71206bbd34eb5c10f968cb"
+    },
+    {
+        "bankName":"ICICI",
+        "accNo":123,
+        "accountOwner":"5e71206bbd34eb5c10f968cb"
+    },
+    {
+        "bankName":"HDFC",
+        "accNo":123,
+        "accountOwner":"5e71206bbd34eb5c10f968cc"
+    },
+    {
+        "bankName":"Kotak",
+        "accNo":123,
+        "accountOwner":"5e71206bbd34eb5c10f968cd"
+    },
+    {
+        "bankName":"SBI",
+        "accNo":123,
+        "accountOwner":"5e71206bbd34eb5c10f968cd"
+    },
+    {
+        "bankName":"Yes bank",
+        "accNo":123,
+        "accountOwner":"5e7120a3bd34eb5c10f968d0"
+    },
+    {
+        "bankName":"HDFC",
+        "accNo":123,
+        "accountOwner":"5e7120a3bd34eb5c10f968d1"
+    }
+    
+]
